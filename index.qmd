@@ -1,0 +1,21 @@
+---
+title: "Portfolio compmus"
+author: "Meike"
+format: 
+  dashboard:
+    orientation: columns
+editor: visual
+theme: journal
+---
+
+# David Bowie albums
+
+## first row
+
+test hier komt dan het eerste plaatje: ![](SSM_timbre.png)
+
+## second row
+
+test test
+
+hier kan dan nog een plaatje of tekst komen
