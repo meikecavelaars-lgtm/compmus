@@ -10,12 +10,27 @@ theme: journal
 
 # David Bowie albums
 
-## first row
+## Week 11
 
-test hier komt dan het eerste plaatje: ![](SSM_timbre.png)
+Week 11: Tempogram of *Lady Grinning Soul* by David Bowie
 
-## second row
+![](tempogram_bowie.png)
 
-test test
+The tempogram shows lines around 100 BPM, slightly under 200 BPM and under 400 BPM. This corresponds to the tempo of the song, which is around 94 BPM (so 188 BPM if you use double-time). \
+The tempo slightly fluctuates throughout the song, mainly because of the expressive piano playing. This is also reflected in the tempogram, as the lines are not exactly straight. \
+In the first 30 seconds, a clear line in the tempogram is missing. This is because the song starts with a piano intro that does not have a steady rhythm. As soon as the percussion and other instruments come in, the lines in the tempogram start to show up. 
 
-hier kan dan nog een plaatje of tekst komen
+
+
+## Week 9
+
+Week 9: Self Similarity Matrices\
+ \
+Self similarity matrix of *Lady Grinning Soul* by David Bowie, based on timbre
+
+ ![](SSM_timbre.png)
+
+## Week 10
+
+Week 10: Keygram and chordogram
+
