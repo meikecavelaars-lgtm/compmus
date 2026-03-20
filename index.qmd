@@ -8,7 +8,30 @@ editor: visual
 theme: journal
 ---
 
+# Week 12
+ 
+## 
+**Confusion matrix for 3 different David Bowie albums:**
+
+![](heatmap_knn.png)  
+
+## 
+**Feature importance:**  
+
+![](feature_importance.png)
+
+The model can classify the songs quite well. However, the feature importance graph shows that the duration of the songs was the most important feature. As I am more interested in the *sound* of the music, and not the length of the song, I modeled it again, this time without the Duration feature. 
+
+## 
+**Confusion matrix without Duration:**
+
+![](heatmap_knn2.png)  
+
+Although the classification is performing slightly less well now, the model is still reasonably good at classifying the songs. 
+
+
 # David Bowie albums
+
 
 ## Week 11
 
